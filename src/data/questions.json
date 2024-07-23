@@ -1,0 +1,338 @@
+{
+  "questions": [
+    {
+      "question": "Quel personnage est le protagoniste principal de la série *The Legend of Zelda* ?",
+      "options": [
+        "Link",
+        "Zelda",
+        "Ganondorf",
+        "Ganon"
+      ],
+      "answer": "Link",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Dans *Super Mario Bros.*, quel est le nom du frère de Mario ?",
+      "options": [
+        "Luigi",
+        "Wario",
+        "Peach",
+        "Yoshi"
+      ],
+      "answer": "Luigi",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Quel est le nom du plombier créé par Nintendo qui sauve des princesses dans ses aventures ?",
+      "options": [
+        "Mario",
+        "Luigi",
+        "Wario",
+        "Toad"
+      ],
+      "answer": "Mario",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Quel est le nom du jeu dans lequel vous devez construire et gérer une ville, souvent associé à la franchise *Sim* ?",
+      "options": [
+        "SimCity",
+        "The Sims",
+        "SimAnt",
+        "SimTower"
+      ],
+      "answer": "SimCity",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Quel est le nom du jeu où le personnage principal est un jeune garçon nommé Link qui doit sauver la princesse Zelda ?",
+      "options": [
+        "The Legend of Zelda",
+        "Final Fantasy",
+        "Castlevania",
+        "Metroid"
+      ],
+      "answer": "The Legend of Zelda",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Dans quel jeu vidéo le personnage principal est un hérisson bleu qui court à grande vitesse ?",
+      "options": [
+        "Sonic the Hedgehog",
+        "Mario",
+        "Crash Bandicoot",
+        "Rayman"
+      ],
+      "answer": "Sonic the Hedgehog",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Quel est le nom du jeu de combat où des personnages se battent sur une île avec des objets de la série *Nintendo* ?",
+      "options": [
+        "Super Smash Bros.",
+        "Street Fighter",
+        "Tekken",
+        "Mortal Kombat"
+      ],
+      "answer": "Super Smash Bros.",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Quel est le nom du jeu où vous contrôlez un personnage nommé Pac-Man qui mange des pastilles et évite des fantômes ?",
+      "options": [
+        "Pac-Man",
+        "Donkey Kong",
+        "Ms. Pac-Man",
+        "Galaga"
+      ],
+      "answer": "Pac-Man",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Dans quel jeu vidéo classique devez-vous sauver la princesse Peach de Bowser ?",
+      "options": [
+        "Super Mario Bros.",
+        "Donkey Kong",
+        "Mega Man",
+        "Tetris"
+      ],
+      "answer": "Super Mario Bros.",
+      "difficulty": "facile"
+    },
+    {
+      "question": "Quel jeu de rôle japonais est célèbre pour sa série de personnages appelés Chocobos ?",
+      "options": [
+        "Final Fantasy",
+        "Dragon Quest",
+        "Persona",
+        "Xenoblade Chronicles"
+      ],
+      "answer": "Final Fantasy",
+      "difficulty": "facile"
+    },
+
+
+    {
+      "question": "Quel est le nom du studio qui a développé *The Witcher 3: Wild Hunt* ?",
+      "options": [
+        "CD Projekt Red",
+        "Bethesda",
+        "Rockstar Games",
+        "Ubisoft"
+      ],
+      "answer": "CD Projekt Red",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel jeu de tir a popularisé le mode Battle Royale ?",
+      "options": [
+        "Fortnite",
+        "Call of Duty: Warzone",
+        "PUBG",
+        "Apex Legends"
+      ],
+      "answer": "PUBG",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel est le nom du personnage principal dans *Metal Gear Solid* ?",
+      "options": [
+        "Solid Snake",
+        "Big Boss",
+        "Raiden",
+        "Otacon"
+      ],
+      "answer": "Solid Snake",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel est le nom du jeu dans lequel vous devez incarner un petit personnage qui explore des cavernes en 2D et combat des monstres ?",
+      "options": [
+        "Terraria",
+        "Minecraft",
+        "Hollow Knight",
+        "Celeste"
+      ],
+      "answer": "Hollow Knight",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel jeu de stratégie en temps réel a été développé par Blizzard et se déroule dans un univers de science-fiction avec des races telles que les Terrans, les Zergs et les Protoss ?",
+      "options": [
+        "StarCraft",
+        "Warcraft",
+        "Command & Conquer",
+        "Age of Empires"
+      ],
+      "answer": "StarCraft",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel est le nom du jeu où vous pouvez capturer et entraîner des créatures appelées Pokémon ?",
+      "options": [
+        "Pokémon",
+        "Digimon",
+        "Monster Hunter",
+        "Yu-Gi-Oh!"
+      ],
+      "answer": "Pokémon",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel est le nom du jeu de survie où les joueurs se battent pour être le dernier survivant sur une île déserte ?",
+      "options": [
+        "Rust",
+        "DayZ",
+        "ARK: Survival Evolved",
+        "H1Z1"
+      ],
+      "answer": "Rust",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Dans quel jeu les joueurs incarnent des mercenaires et combattent dans un monde post-apocalyptique avec des mécaniques de jeu de tir à la première personne ?",
+      "options": [
+        "Borderlands",
+        "Far Cry",
+        "Metro Exodus",
+        "Destiny"
+      ],
+      "answer": "Borderlands",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel est le nom du jeu de rôle où les joueurs explorent un univers ouvert rempli de créatures et de quêtes dans un monde magique appelé Tamriel ?",
+      "options": [
+        "The Elder Scrolls V: Skyrim",
+        "Fallout 4",
+        "Dragon Age: Inquisition",
+        "Dark Souls III"
+      ],
+      "answer": "The Elder Scrolls V: Skyrim",
+      "difficulty": "moyen"
+    },
+    {
+      "question": "Quel est le nom du jeu d'aventure où vous incarnez un voleur nommé Nathan Drake qui explore des temples anciens pour trouver des trésors ?",
+      "options": [
+        "Uncharted",
+        "Tomb Raider",
+        "Assassin's Creed",
+        "The Last of Us"
+      ],
+      "answer": "Uncharted",
+      "difficulty": "moyen"
+    },
+
+
+    {
+      "question": "Quel est le nom du boss final du jeu *Dark Souls* ?",
+      "options": [
+        "Gwyn, Lord of Cinder",
+        "Artorias the Abysswalker",
+        "Ornstein and Smough",
+        "Seath the Scaleless"
+      ],
+      "answer": "Gwyn, Lord of Cinder",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Quel jeu est souvent considéré comme le premier jeu de rôle sur console ?",
+      "options": [
+        "Final Fantasy",
+        "Dragon Quest",
+        "The Elder Scrolls",
+        "Chrono Trigger"
+      ],
+      "answer": "Dragon Quest",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Quel est le nom de l'univers fictif dans lequel se déroule la série *Halo* ?",
+      "options": [
+        "The Halo Universe",
+        "The Covenant",
+        "The Ark",
+        "Reach"
+      ],
+      "answer": "The Halo Universe",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Dans quel jeu de rôle les joueurs peuvent-ils explorer un monde ouvert et interagir avec des personnages dans un univers d'horreur gothique ?",
+      "options": [
+        "Bloodborne",
+        "The Witcher 3: Wild Hunt",
+        "Sekiro: Shadows Die Twice",
+        "Hollow Knight"
+      ],
+      "answer": "Bloodborne",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Quel est le nom du jeu développé par FromSoftware qui propose une mécanique de jeu très difficile et une narration environnementale complexe ?",
+      "options": [
+        "Dark Souls",
+        "Sekiro: Shadows Die Twice",
+        "Elden Ring",
+        "Demon's Souls"
+      ],
+      "answer": "Dark Souls",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Quel jeu de rôle massivement multijoueur en ligne (MMORPG) se déroule dans un univers où les joueurs peuvent explorer des régions fantastiques et combiner différentes compétences ?",
+      "options": [
+        "World of Warcraft",
+        "Final Fantasy XIV",
+        "Guild Wars 2",
+        "Elder Scrolls Online"
+      ],
+      "answer": "World of Warcraft",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Quel est le nom du jeu développé par Team Ico qui suit l'histoire d'un jeune garçon et de son compagnon géant nommé Wander dans un monde désertique ?",
+      "options": [
+        "Shadow of the Colossus",
+        "ICO",
+        "The Last Guardian",
+        "Journey"
+      ],
+      "answer": "Shadow of the Colossus",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Quel jeu a été développé par PlatinumGames et est connu pour ses combats rapides et son protagoniste nommé Bayonetta ?",
+      "options": [
+        "Bayonetta",
+        "Nier: Automata",
+        "Devil May Cry",
+        "Astral Chain"
+      ],
+      "answer": "Bayonetta",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Quel est le nom du jeu de stratégie au tour par tour où les joueurs dirigent des unités et construisent des bases dans un univers de science-fiction avec des mécaniques de gestion de ressources ?",
+      "options": [
+        "XCOM",
+        "StarCraft",
+        "Command & Conquer",
+        "Age of Empires"
+      ],
+      "answer": "XCOM",
+      "difficulty": "difficile"
+    },
+    {
+      "question": "Dans quel jeu vidéo les joueurs doivent résoudre des énigmes dans un monde en constante évolution où ils interagissent avec des mécanismes de temps ?",
+      "options": [
+        "The Legend of Zelda: Majora's Mask",
+        "Portal",
+        "Braid",
+        "Quantum Break"
+      ],
+      "answer": "The Legend of Zelda: Majora's Mask",
+      "difficulty": "difficile"
+    }
+  ]
+}

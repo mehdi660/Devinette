@@ -14,9 +14,6 @@ export default {
         ],
       },
     },
-    colors: {
-      "semi-light-gray": "rgba(255, 255, 255, 0.5)", // Couleur semi-claire
-    },
   },
   plugins: [],
 };

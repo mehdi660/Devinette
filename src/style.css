@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* body {
-  @apply font-sans;
-} */
+body {
+  @apply font-sans bg-gradient-to-r from-blue-400 via-orange-400 to-red-400;
+}

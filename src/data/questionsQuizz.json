@@ -1,6 +1,7 @@
 {
   "questions": [
     {
+      "index": 1,
       "question": "Quel personnage est le protagoniste principal de la série *The Legend of Zelda* ?",
       "options": [
         "Link",
@@ -12,6 +13,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 2,
       "question": "Dans *Super Mario Bros.*, quel est le nom du frère de Mario ?",
       "options": [
         "Luigi",
@@ -23,6 +25,8 @@
       "difficulty": "facile"
     },
     {
+      "index": 2,
+
       "question": "Quel est le nom du plombier créé par Nintendo qui sauve des princesses dans ses aventures ?",
       "options": [
         "Mario",
@@ -34,6 +38,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 3,
       "question": "Quel est le nom du jeu dans lequel vous devez construire et gérer une ville, souvent associé à la franchise *Sim* ?",
       "options": [
         "SimCity",
@@ -45,6 +50,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 4,
       "question": "Quel est le nom du jeu où le personnage principal est un jeune garçon nommé Link qui doit sauver la princesse Zelda ?",
       "options": [
         "The Legend of Zelda",
@@ -56,6 +62,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 5,
       "question": "Dans quel jeu vidéo le personnage principal est un hérisson bleu qui court à grande vitesse ?",
       "options": [
         "Sonic the Hedgehog",
@@ -67,6 +74,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 6,
       "question": "Quel est le nom du jeu de combat où des personnages se battent sur une île avec des objets de la série *Nintendo* ?",
       "options": [
         "Super Smash Bros.",
@@ -78,6 +86,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 7,
       "question": "Quel est le nom du jeu où vous contrôlez un personnage nommé Pac-Man qui mange des pastilles et évite des fantômes ?",
       "options": [
         "Pac-Man",
@@ -89,6 +98,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 8,
       "question": "Dans quel jeu vidéo classique devez-vous sauver la princesse Peach de Bowser ?",
       "options": [
         "Super Mario Bros.",
@@ -100,6 +110,7 @@
       "difficulty": "facile"
     },
     {
+      "index": 9,
       "question": "Quel jeu de rôle japonais est célèbre pour sa série de personnages appelés Chocobos ?",
       "options": [
         "Final Fantasy",
@@ -113,6 +124,8 @@
 
 
     {
+      
+      "index": 10,
       "question": "Quel est le nom du studio qui a développé *The Witcher 3: Wild Hunt* ?",
       "options": [
         "CD Projekt Red",
@@ -124,6 +137,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 11,
       "question": "Quel jeu de tir a popularisé le mode Battle Royale ?",
       "options": [
         "Fortnite",
@@ -135,6 +149,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 12,
       "question": "Quel est le nom du personnage principal dans *Metal Gear Solid* ?",
       "options": [
         "Solid Snake",
@@ -146,6 +161,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 13,
       "question": "Quel est le nom du jeu dans lequel vous devez incarner un petit personnage qui explore des cavernes en 2D et combat des monstres ?",
       "options": [
         "Terraria",
@@ -157,6 +173,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 14,
       "question": "Quel jeu de stratégie en temps réel a été développé par Blizzard et se déroule dans un univers de science-fiction avec des races telles que les Terrans, les Zergs et les Protoss ?",
       "options": [
         "StarCraft",
@@ -168,6 +185,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 15,
       "question": "Quel est le nom du jeu où vous pouvez capturer et entraîner des créatures appelées Pokémon ?",
       "options": [
         "Pokémon",
@@ -179,6 +197,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 16,
       "question": "Quel est le nom du jeu de survie où les joueurs se battent pour être le dernier survivant sur une île déserte ?",
       "options": [
         "Rust",
@@ -190,6 +209,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 17,
       "question": "Dans quel jeu les joueurs incarnent des mercenaires et combattent dans un monde post-apocalyptique avec des mécaniques de jeu de tir à la première personne ?",
       "options": [
         "Borderlands",
@@ -201,6 +221,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 18,
       "question": "Quel est le nom du jeu de rôle où les joueurs explorent un univers ouvert rempli de créatures et de quêtes dans un monde magique appelé Tamriel ?",
       "options": [
         "The Elder Scrolls V: Skyrim",
@@ -212,6 +233,7 @@
       "difficulty": "moyen"
     },
     {
+      "index": 19,
       "question": "Quel est le nom du jeu d'aventure où vous incarnez un voleur nommé Nathan Drake qui explore des temples anciens pour trouver des trésors ?",
       "options": [
         "Uncharted",
@@ -225,6 +247,7 @@
 
 
     {
+      "index": 20,
       "question": "Quel est le nom du boss final du jeu *Dark Souls* ?",
       "options": [
         "Gwyn, Lord of Cinder",
@@ -236,6 +259,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 21,
       "question": "Quel jeu est souvent considéré comme le premier jeu de rôle sur console ?",
       "options": [
         "Final Fantasy",
@@ -247,6 +271,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 22,
       "question": "Quel est le nom de l'univers fictif dans lequel se déroule la série *Halo* ?",
       "options": [
         "The Halo Universe",
@@ -258,6 +283,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 23,
       "question": "Dans quel jeu de rôle les joueurs peuvent-ils explorer un monde ouvert et interagir avec des personnages dans un univers d'horreur gothique ?",
       "options": [
         "Bloodborne",
@@ -269,6 +295,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 24,
       "question": "Quel est le nom du jeu développé par FromSoftware qui propose une mécanique de jeu très difficile et une narration environnementale complexe ?",
       "options": [
         "Dark Souls",
@@ -280,6 +307,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 25,
       "question": "Quel jeu de rôle massivement multijoueur en ligne (MMORPG) se déroule dans un univers où les joueurs peuvent explorer des régions fantastiques et combiner différentes compétences ?",
       "options": [
         "World of Warcraft",
@@ -291,6 +319,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 26,
       "question": "Quel est le nom du jeu développé par Team Ico qui suit l'histoire d'un jeune garçon et de son compagnon géant nommé Wander dans un monde désertique ?",
       "options": [
         "Shadow of the Colossus",
@@ -302,6 +331,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 27,
       "question": "Quel jeu a été développé par PlatinumGames et est connu pour ses combats rapides et son protagoniste nommé Bayonetta ?",
       "options": [
         "Bayonetta",
@@ -313,6 +343,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 28,
       "question": "Quel est le nom du jeu de stratégie au tour par tour où les joueurs dirigent des unités et construisent des bases dans un univers de science-fiction avec des mécaniques de gestion de ressources ?",
       "options": [
         "XCOM",
@@ -324,6 +355,7 @@
       "difficulty": "difficile"
     },
     {
+      "index": 29,
       "question": "Dans quel jeu vidéo les joueurs doivent résoudre des énigmes dans un monde en constante évolution où ils interagissent avec des mécanismes de temps ?",
       "options": [
         "The Legend of Zelda: Majora's Mask",

@@ -1,6 +1,6 @@
 import "./App.css";
 import Difficulty from "./components/Difficulty";
-import Questions from "./components/Questions";
+// import Question from "./components/Question";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       </div>
       <h1 className=" font-semibold text-4xl p-10 ">Quizz Game ! 🎮</h1>
       <Difficulty />
-      <Questions />
+      {/* <Question /> */}
     </div>
   );
 }

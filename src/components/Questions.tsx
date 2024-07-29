@@ -1,22 +1,29 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import React from "react";
+import questionsQuizz from "../data/questionsQuizz.json";
+import Question from "./Question";
 
-interface QuestionProps {
-  question: string;
-  options: string[];
+interface QuestionsProps {
+  difficulty: string;
 }
 
-const Question: React.FC<QuestionProps> = ({ question, options }) => {
+interface QuestionType {
+  question: string;
+  options: string[];
+  difficulty: string;
+}
+
+const Questions: React.FC<QuestionsProps> = ({ difficulty }) => {
+  const filteredQuestions: QuestionType[] = questionsQuizz.questions.filter(
+    (q: QuestionType) => q.difficulty === difficulty
+  );
+
   return (
     <div>
-      <h3 className="question mb-4">{question}</h3>
-      <ul className=" list-disc list-inside">
-        {options.map((option, index) => (
-          <li key={index}>{option}</li>
-        ))}
-      </ul>
+      {filteredQuestions.map((q, index) => (
+        <Question key={index} question={q.question} options={q.options} />
+      ))}
     </div>
   );
 };
 
-export default Question;
+export default Questions;

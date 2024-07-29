@@ -1,4 +1,13 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+import { CSSTransition, TransitionGroup } from "react-transition-group";
+import "../difficulty.css";
+import React, { useState } from "react";
+
 function Difficulty() {
+  const [selectedDifficulty, setSelectedDifficulty] = useState<string | null>(
+    null
+  );
+
   const easyBtn = () => {
     console.log("Facile");
   };
